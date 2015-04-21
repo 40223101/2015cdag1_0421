@@ -6,4 +6,5 @@
    * [1.product_owner.md](1.product_owner.md)
    * [2.scrumaster.md](2.scrumaster.md)
    * [3.scrum_1.md](3.scrum_1.md)
+       * 3.scrum_4.md
 
