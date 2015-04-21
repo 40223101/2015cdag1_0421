@@ -8,5 +8,4 @@
    * [3.scrum_1.md](3.scrum_1.md)
    * [4.scrum_2.md](4.scrum_2.md)
    * [5.scrum_3.md](5.scrum_3.md)
-   * [6.scrum_4.md](6.scrum_4.md)
 
