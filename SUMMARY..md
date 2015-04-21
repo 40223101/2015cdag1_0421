@@ -4,4 +4,5 @@
 * [新產品開發流程.md](_新產品開發流程.md)
 * [協同上機考試.md](_協同上機考試.md)
    * [1.product_owner.md](1.product_owner.md)
+   * 2.scrumaster.md
 
